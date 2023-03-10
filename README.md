@@ -1,7 +1,9 @@
 # test_1
 testing
 
-![BytebeamArduino](img/logo_1.png)
+![BytebeamArduino_1](img/logo_1.png)
+
+![BytebeamArduino_2](img/logo_2.png)
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
